@@ -19,8 +19,8 @@ Personal Blog
 
 Pages that only the admin can access
 ![alt text](assets/blog-admin-pages.png)
-Personal Blog
 
+Personal Blog
 How to Implement
 Here are some guidelines to help you implement the personal blog:
 
