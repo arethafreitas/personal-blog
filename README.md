@@ -1,4 +1,5 @@
 Desafio: https://roadmap.sh/projects/personal-blog
+
 You are required to build a personal blog where you can write and publish articles. The blog will have two sections: a guest section and an admin section.
 
 Guest Section — A list of pages that can be accessed by anyone:
@@ -13,13 +14,13 @@ Edit Article Page: This page will contain a form to edit an existing article. Th
 Here are the mockups to give you an idea of the different pages of the blog.
 
 Pages that anyone can access
-
+![alt text](blog-guest-pages.png)
 Personal Blog
 
 Pages that only the admin can access
 
 Personal Blog
-
+![alt text](blog-guest-pages.png)
 How to Implement
 Here are some guidelines to help you implement the personal blog:
 
